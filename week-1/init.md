@@ -1,7 +1,7 @@
 ## 🎯 Hands-on Class Activity: Let’s Build a Database Together
 _Today’s mission: Create and explore a database using both Terminal and MySQL Workbench._
 
-## 🖥️ Part 1: Using MySQL Workbench (a.k.a. Click & Code Mode 🖱️)
+## 🖥️ Part 1: usingUsing MySQL Workbench (a.k.a. Click & Code Mode 🖱️)
 
  🌀 **Step 1: Open Workbench & Connect:**
    - Open MySQL Workbench
